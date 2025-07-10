@@ -88,3 +88,13 @@ Stack trace:
 #6 C:\xampp\htdocs\childhood\index.php(17): require('C:\\xampp\\htdocs...')
 #7 {main}
   thrown in C:\xampp\htdocs\childhood\wp-content\themes\childhood\header.php on line 36
+[10-Jul-2025 10:22:52 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:26:05 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:29:40 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:30:07 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:33:02 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:35:14 UTC] PHP Warning:  Attempt to read property "title" on null in C:\xampp\htdocs\childhood\wp-includes\class-wp-customize-widgets.php on line 926
+[10-Jul-2025 10:57:14 UTC] Automatic updates starting...
+[10-Jul-2025 10:57:14 UTC]   Automatic plugin updates starting...
+[10-Jul-2025 10:57:14 UTC]   Automatic plugin updates complete.
+[10-Jul-2025 10:57:14 UTC] Automatic updates complete.
